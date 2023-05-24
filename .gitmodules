@@ -25,3 +25,4 @@
 [submodule "meta-pervices"]
 	path = meta-pervices
 	url = https://github.com/pervices/meta-pervices.git
+	branch = master
