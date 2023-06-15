@@ -1,0 +1,28 @@
+[submodule "meta-linaro"]
+	path = meta-linaro
+	url = git://git.linaro.org/openembedded/meta-linaro.git
+	branch = zeus
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = zeus
+[submodule "meta-altera"]
+	path = meta-altera
+	url = https://github.com/pervices/meta-altera.git
+	branch = angstrom-v2016.12-yocto2.2
+[submodule "meta-angstrom"]
+	path = meta-angstrom
+	url = https://github.com/Angstrom-distribution/meta-angstrom.git
+	branch = angstrom-v2016.12-yocto2.2
+[submodule "meta-nodejs"]
+	path = meta-nodejs
+	url = https://github.com/imyller/meta-nodejs.git
+	branch = morty
+[submodule "meta-nodejs-contrib"]
+	path = meta-nodejs-contrib
+	url = https://github.com/imyller/meta-nodejs-contrib.git
+	branch = morty
+[submodule "meta-pervices"]
+	path = meta-pervices
+	url = https://github.com/pervices/meta-pervices.git
+	branch = master
