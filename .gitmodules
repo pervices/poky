@@ -1,6 +1,6 @@
 [submodule "meta-linaro"]
 	path = meta-linaro
-	url = https://github.com/pervices/meta-linaro.git
+	url = https://gitlab.com/Linaro/openembedded/meta-linaro.git
 	branch = pv/morty
 [submodule "meta-openembedded"]
 	path = meta-openembedded
