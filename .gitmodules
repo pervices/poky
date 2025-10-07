@@ -4,7 +4,7 @@
 	branch = angstrom-v2014.12-yocto1.7
 [submodule "meta-linaro"]
 	path = meta-linaro
-	url = git://git.linaro.org/openembedded/meta-linaro.git
+	url = https://github.com/pervices/meta-linaro.git
 	branch = dizzy
 [submodule "meta-nodejs"]
 	path = meta-nodejs
